@@ -122,8 +122,10 @@ google-java-format-1.7-all-deps.jar
 
 # Repositories
 rms-ui/
+rms-auth-service/
 rms-config-service/
 rms-discovery-service/
+rms-documentation-service/
 rms-gateway-service/
 rms-campus-service/
 rms-employee-service/
@@ -132,3 +134,5 @@ rms-mail-service/
 rms-batch-service/
 rms-search-service/
 rms-configuration-repo/
+rms-ng-ui/
+rms-core/
